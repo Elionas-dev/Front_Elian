@@ -14,3 +14,7 @@
     width: 250px;
     height: 200px;
 }
+
+.card a:hover {
+    cursor: pointer;
+}
